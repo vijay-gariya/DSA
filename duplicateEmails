@@ -1,0 +1,12 @@
+# Write your MySQL query statement below
+#swapnill
+
+DELETE p1
+FROM Person p1
+
+-- Find another record with the same email
+JOIN Person p2
+    ON p1.email = p2.email
+
+    -- Keep the record with the smaller ID
+    AND p1.id > p2.id;
