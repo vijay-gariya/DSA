@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijay-gariya/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vijay-gariya/DSA/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/vijay-gariya/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vijay-gariya/DSA/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/vijay-gariya/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vijay-gariya/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vijay-gariya/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
