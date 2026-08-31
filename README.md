@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/vijay-gariya/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vijay-gariya/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/vijay-gariya/DSA/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vijay-gariya/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/vijay-gariya/DSA/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijay-gariya/DSA/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
