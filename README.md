@@ -67,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/vijay-gariya/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vijay-gariya/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0940-distinct-subsequences-ii](https://github.com/vijay-gariya/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/vijay-gariya/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/vijay-gariya/DSA/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/vijay-gariya/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
