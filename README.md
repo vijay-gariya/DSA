@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/vijay-gariya/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0262-trips-and-users](https://github.com/vijay-gariya/DSA/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/vijay-gariya/DSA/tree/master/0577-employee-bonus) |
 ## Array
 |  |
