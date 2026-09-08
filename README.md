@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/vijay-gariya/DSA/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vijay-gariya/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3870-count-commas-in-range](https://github.com/vijay-gariya/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vijay-gariya/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vijay-gariya/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
