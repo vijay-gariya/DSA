@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vijay-gariya/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vijay-gariya/DSA/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/vijay-gariya/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vijay-gariya/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vijay-gariya/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/vijay-gariya/DSA/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/vijay-gariya/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vijay-gariya/DSA/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/vijay-gariya/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vijay-gariya/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vijay-gariya/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vijay-gariya/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
