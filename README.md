@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/vijay-gariya/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vijay-gariya/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0678-valid-parenthesis-string](https://github.com/vijay-gariya/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vijay-gariya/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vijay-gariya/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vijay-gariya/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/vijay-gariya/DSA/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/vijay-gariya/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vijay-gariya/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
@@ -102,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijay-gariya/DSA/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/vijay-gariya/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/vijay-gariya/DSA/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/vijay-gariya/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -124,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vijay-gariya/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vijay-gariya/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
